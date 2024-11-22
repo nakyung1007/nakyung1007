@@ -8,7 +8,7 @@
 ## History
 - (Activity) 정보보안전공 재학(2021.03 ~ 진행중)
 - (Activity) Microsoft AI school 5th (2024.09 ~)
-- (Experience) 신한시스템즈(주) 단기 인턴 (2024.07.01 ~ 2024.07.28)
+- (Experience) 신한시스템즈(주) - 단기 인턴 (2024.07.01 ~ 2024.07.28)
 - (Project) 인터넷 사용자를 위한 DDoS 탐지 및 방어 지능형 IPS
   - 2024.03 ~ 2024.06
 - (Project) 주차장에서 최적의 주차 자리를 LED 점등으로 안내하는 시스템
