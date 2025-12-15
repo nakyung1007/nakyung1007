@@ -1,6 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Hi!👋🏻%20I'm%20nakyung!&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=000000)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!👋🏻%20I'm%20Nakyung&fontSize=48&fontAlignY=40" />
 
-## Information
-안녕하세요! 저는 조나경입니다.
+<div align="center">
 
-## History
+## 💡 Introduction
+
+- AI & Vision-Language Models (VLM)
+- Interested in object detection and trustworthy AI
+- 새로운 기술을 학습하고 실험 결과를 정리하는 과정을 중요하게 생각합니다.
+
+</div>
+
+<div align="center">
+
+## 📧 Contact
+
+- mail : whskrud1007@naver.com
+
+</div>
+
